@@ -1,6 +1,6 @@
 ## 26年团体赛参赛 NSCore
 
-仿照香山写的，所以取名**南山**，架构介绍看 [`design.pdf`](./design.pdf)
+仿照香山写的，所以取名**南山**，架构介绍看 [`design.pdf`](./doc/design.pdf)
 
 ### 分工
 
